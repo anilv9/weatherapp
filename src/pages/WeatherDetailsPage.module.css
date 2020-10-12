@@ -1,0 +1,9 @@
+.divider{
+    height: 1px;
+    background-color: #EAEAEA;
+    border: none;
+    margin: 2rem 0;
+}
+.fiveDayWeatherBtn{
+    text-align: right;
+}

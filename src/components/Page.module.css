@@ -1,0 +1,15 @@
+.root{
+    margin: 4rem auto;
+    max-width: 900px;
+    position: relative;
+}
+@media (max-width: 890px) {
+    .root {
+        margin: 4rem 1rem;
+    }
+}
+@media (max-width: 400px) {
+    .root {
+        margin: 1rem;
+    }
+}

@@ -1,0 +1,12 @@
+.root{
+    display: grid;
+    grid-template-columns: max-content max-content max-content;
+    grid-gap:1.5rem
+}
+.root label{
+    align-self: center;
+}
+.root input[type=text]{
+    padding: 1rem;
+    font-size: 1rem;
+}
