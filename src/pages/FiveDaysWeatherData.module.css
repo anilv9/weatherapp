@@ -1,0 +1,15 @@
+.title{
+    margin: 2rem 0;
+    font-weight: 400;
+}
+.dataGrid{
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 600px;
+    font-size: 1rem;
+}
+.dataGrid h4{
+    font-weight: 400;
+    font-size: 1rem;
+}

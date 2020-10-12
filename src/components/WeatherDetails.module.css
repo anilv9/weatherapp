@@ -1,0 +1,11 @@
+.root{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr;
+    grid-gap: 1rem;
+}
+.root h3,.root h4{
+    font-weight: 400;
+}
+.title{
+    grid-column: 1/3;
+}
